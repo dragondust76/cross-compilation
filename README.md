@@ -5,3 +5,5 @@ compile_win_dialog2.sh - a bash script to select a C source file from a dialog b
 *must have mingw-w64 package and dependencies installed (as usual for compiling C source to Win32_PE's)
 *navigate the dialog box with TAB button and use SPACE button to select file
 ~~Thanks! 
+
+<img src="images/c_code_compile_success.png" width="100" alt="Logo">
